@@ -9,7 +9,7 @@ def using_sort(array)
   array.sort
   
   
-=======
+
 def using_sort(array,element)
   array.sort_by
 
